@@ -1,0 +1,5 @@
+git checkout main
+git checkout feature/user-auth
+Alternatively, the more modern and often preferred command for switching branches (and creating new ones) is git switch:
+git switch main
+git switch feature/user-auth
